@@ -37,3 +37,4 @@ fi
 
 ## Resources
 - CEC guide https://www.cec-o-matic.com/
+- Respond to HDMI commands: https://raspberrypi.stackexchange.com/questions/82847/detect-tv-remote-buttons-being-pressed-with-cec-client
